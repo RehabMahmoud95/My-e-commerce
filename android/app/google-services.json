@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "877180815712",
+    "project_id": "getx-firebase-da5cc",
+    "storage_bucket": "getx-firebase-da5cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877180815712:android:cd9ca30a4de0d218a0f605",
+        "android_client_info": {
+          "package_name": "com.example.getx_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo9AZm5QBa0NKnnNkyjOe7kYebyk-W4pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877180815712:android:24808d62a13cade1a0f605",
+        "android_client_info": {
+          "package_name": "getx_e_commerce.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDo9AZm5QBa0NKnnNkyjOe7kYebyk-W4pw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
